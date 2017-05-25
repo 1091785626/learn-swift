@@ -10,7 +10,9 @@ Swift开发应用，整理一份每个点的练习
 
 #### UI
 
-1. [UILabel](https://github.com/deot/learn-swift/UI/01-UILabel)
-2. [UIButton](https://github.com/deot/learn-swift/UI/01-UIButton)
+1. [UILabel](https://github.com/deot/learn-swift/blob/master/UI/01-UILabel/01-UILabel/ViewController.swift)
+2. [UIButton](https://github.com/deot/learn-swift/blob/master/UI/02-UIButton/02-UIButton/ViewController.swift)
+3. [UIView](https://github.com/deot/learn-swift/blob/master/UI/03-UIView/03-UIView/ViewController.swift)
+4. [UIScrollView](https://github.com/deot/learn-swift/blob/master/UI/04-UIScrollView/04-UIScrollView/ViewController.swift)
 
 
