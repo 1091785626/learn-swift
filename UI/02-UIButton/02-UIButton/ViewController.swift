@@ -47,8 +47,13 @@ extension ViewController {
         button.contentEdgeInsets = UIEdgeInsets(top: 10, left: 10, bottom: 10, right: 10)
         // button.contentEdgeInsets = UIEdgeInsetsMake(10, 10, 10, 10)
         
+        
         // 背景属性设置
         button.backgroundColor = UIColor.blue
+        
+        // 按钮图片自适应
+        button.imageView?.contentMode = .scaleAspectFit
+        
         // button.setBackgroundImage(UIImage(named: "normalImage"), for: .normal)
         // button.setBackgroundImage(UIImage(named: "hightImage"), for: .highlighted)
         
